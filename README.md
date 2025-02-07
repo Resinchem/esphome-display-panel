@@ -1,6 +1,8 @@
 # esphome-display-panel
 `DisplayPanel` class for [ESPHome](https://esphome.io/) [display:](https://esphome.io/components/display/index.html) objects. 
 
+### Note: This library is no longer compatible with ESPHome 2023.7 and later.  It is maintained here for backward compatibility.  For newer versions of ESPHome, please use the [original by kdorff](https://github.com/kdorff/esphome-display-panel), which has been updated for ESPHome 2023.7 and later.
+
 DisplayPanel provides a rectangular panel to be displayed on the LCD/OLED display that we can  write one or more lines of centered text to. One can also use DisplayPanel to easily detect if a panel is within range of a touch event.
 
 # Sample uses
